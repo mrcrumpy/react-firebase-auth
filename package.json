@@ -38,7 +38,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.0.1",
     "extract-text-webpack-plugin": "^2.1.0",
-    "nodemon": "^1.11.0",
+    "nodemon": "^2.0.2",
     "webpack": "^2.5.1",
     "webpack-node-externals": "^1.6.0"
   },
